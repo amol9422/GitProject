@@ -3,4 +3,5 @@ hello world!!!
 welcome to git....
 
 change for feature - login
-chnage to fix bug1
+change to fix bug1
+change to fix bug2
